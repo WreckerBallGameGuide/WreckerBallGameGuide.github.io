@@ -1,0 +1,44 @@
+h1 {
+  color:white
+}
+h1{
+  font-family: 'Bangers', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Megrim', cursive;
+font-family: 'Press Start 2P', cursive;
+}
+body{
+background-image: url(https://i.pinimg.com/originals/7d/6b/13/7d6b135f0f816120565a9233188d2c48.jpg);
+background-size: cover;
+font-size: 16px;
+}
+h2{
+font-family: "Times New Roman", Times, serif;
+}
+
+img{
+  width:65%;
+}
+
+h2{
+  text-align:center;
+}
+h1{
+  text-align:center;
+}
+body{
+  color:cyan
+}
+body{
+  text-align:center;
+}
+div{
+  width:75%;
+  margin:auto;
+  background-color: black;
+  padding:20px;
+  border-radius: 1em;
+}
+h1{
+  font-size:2em;
+}
